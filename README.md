@@ -1,4 +1,4 @@
-# 🧠 Express AI Inference API
+# 🧠 tfjs-inference-api
 
 A REST API built with **Express.js** and **TensorFlow.js** for running image-based disease prediction inference on the backend. Accepts image uploads and returns a predicted disease label with a confidence score.
 
